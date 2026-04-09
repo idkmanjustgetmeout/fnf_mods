@@ -1,0 +1,306 @@
+{
+	"song": {
+		"events": [
+			[
+				25945.9459459459,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				26270.2702702703,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				26594.5945945946,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				26837.8378378378,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				27081.08585811,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				27243.2432432432,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				27567.5675675676,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				27891.8918918919,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				28135.1351351352,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				28378.3783783784,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				28540.5405405405,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				28864.8648648649,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				29189.1891891892,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				29432.4324324325,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				29675.6756756757,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				29837.8378378378,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				30162.1621621622,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				30486.4864864865,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				30729.7297297298,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				30972.972972973,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
