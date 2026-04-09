@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sponge.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="1514" y="606" width="336" height="320" frameX="-217" frameY="-293" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="down0001" x="0" y="1275" width="326" height="310" frameX="-204" frameY="-300" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="down0002" x="1514" y="926" width="348" height="302" frameX="-204" frameY="-296" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0000" x="1514" y="0" width="367" height="300" frameX="-203" frameY="-302" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0000" x="509" y="0" width="547" height="331" frameX="-28" frameY="-272" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0001" x="1056" y="0" width="458" height="293" frameX="-113" frameY="-305" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0002" x="509" y="331" width="455" height="303" frameX="-118" frameY="-299" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="right0000" x="0" y="0" width="509" height="410" frameX="-127" frameY="-206" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="right0001" x="344" y="913" width="400" height="287" frameX="-215" frameY="-294" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="right0002" x="1514" y="300" width="358" height="306" frameX="-222" frameY="-297" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0000" x="0" y="410" width="383" height="503" frameX="-170" frameY="-91" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0001" x="1056" y="293" width="346" height="376" frameX="-198" frameY="-223" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0002" x="0" y="913" width="344" height="362" frameX="-193" frameY="-239" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>
