@@ -1,0 +1,267 @@
+// HOUSE //
+
+house_1==Bop Boop Bep!
+house_2==Hm? Ah, ei! Eu te conheÃ§o! VocÃª nÃ£o Ã© o cara que derrotou o Dearest na TV uns meses atrÃ¡s?
+house_3==Yeah!
+house_4==Bapity boop bep!
+house_5==Ah, e vocÃª tÃ¡ me desafiando pra uma batalha de canto?
+house_6==Bem... Vou te avisando, JÃ¡ ganhei vÃ¡rias na minha Ã©poca!
+house_7==Beeeep!
+house_8==Vamos comeÃ§ar com uma simples!!
+
+
+// INSANITY //
+
+insanity_1==...
+insanity_2==Bap bep?
+insanity_3==Ah! Desculpa, sÃ³ estava pensando...
+insanity_4==De qualquer forma, pronto pra prÃ³xima mÃºsica?
+insanity_5==Beep Baaaaaap!
+insanity_6==Beleza!
+
+// INSANITY END //
+
+insanity_end_1==Ah... ah nÃ£o...
+insanity_end_2==Bep?
+
+// POLYGONIZED //
+
+polygonized_1==QUÃŠ
+polygonized_2==NÃƒO NÃƒO NÃƒO EU ACHEI
+polygonized_3==EU ACHEI QUE
+polygonized_4==POR QUE TÃ PIORANDO
+polygonized_5==MEUS FILHOS AINDA ESTÃƒO NA CASA
+polygonized_6==B-beep..?
+
+
+// BLOCKED //
+
+blocked_1==Bom, esse Ã© o lugar que o Dave nos convidou.
+blocked_2==Eu gosto da grama!
+blocked_3==Yeah!
+blocked_4==Mas me pergunto do por quÃª ele escolher logo esse lugar. Ele queria que a gente se encontrasse com alguÃ©m?
+blocked_5==Quem tÃ¡ aÃ­??
+blocked_6==Beep?
+blocked_7==Espera um segundo...... VocÃªs dois tÃ£o tentando roubar meu milho?
+blocked_8==Bo. Beep Skidee Bop-
+blocked_9==EU VOU TE DAR BLOCK DA MINHA FAZENDA! VocÃª nunca mais vai voltar aqui seu lixo vei de rodeio sujo.
+blocked_10==Bop?
+blocked_11==VocÃª deveria me deixar explicar, Boyfriend.
+
+
+// CORN THEFT //
+
+corn_theft_1==[Bambi recebe uma ligaÃ§Ã£o de Dave.]
+corn_theft_2==ALÃ”WW?!?!
+corn_theft_3==Oi Bambi, Ã© o Dave. VocÃª tÃ¡ pronto pro piquenique?
+corn_theft_4==QUÃŠ, NÃƒO! Eu tÃ´ no meio de algo! Tem dois forasteiros tentando roubar MEU milho!
+corn_theft_5==Tem alguma chance de que esses "Forasteiros" que vocÃª estÃ¡ perturbando sÃ£o um casal igualmente baixinho?
+corn_theft_6==Sim... Justificadamente!
+corn_theft_7==(Eu nÃ£o achei que eles iriam chegar tÃ£o cedo...)
+corn_theft_8==Bambi. Eles nÃ£o sÃ£o forasteiros. Eu conheÃ§o eles.
+corn_theft_9==QuÃª que tu quer dizer?
+corn_theft_10==Eu jÃ¡ te disse essa manhÃ£, eu estava planejando convidar um pessoal pro piquenique. SÃ£o os "Convidados" que eu falei sobre!
+corn_theft_11==Isso nÃ£o faz sentido...
+corn_theft_12==Huh? O que vocÃª... VocÃª achou que eu ia ter um piquenique sÃ³ com vocÃª? Que esquisito.
+corn_theft_13==Espera... AHA! Eu acho que sei o que tÃ¡ acontecendo aqui!
+corn_theft_14==Esses nÃ£o sÃ£o os amigos que vocÃª achava que eram, Dave!
+corn_theft_15==SÃ³ pode tÃ¡ brincando comigo, Bambi-
+corn_theft_16==[Bambi repentinamente desliga no Dave.]
+corn_theft_17==Agora sim eu sei o que tÃ¡ acontecendo aqui...
+corn_theft_18==VocÃªs dois tÃ£o usando o "convite" do Dave como DESCULPA pra roubar meu milho!
+corn_theft_19==VocÃª Ã© burro?
+corn_theft_20==QuÃª?
+corn_theft_21==VocÃª me ouviu, vocÃª Ã© burro?
+corn_theft_22==Como que sou burro?
+corn_theft_23==Como que vocÃª vai logo presumir que a gente tÃ¡ aqui pra roubar seu milho?
+corn_theft_24==Quem diabos que faz isso?
+corn_theft_25==Pessoas roubam meu milho toda hora!
+corn_theft_26==Quer dizer, tÃ¡, entÃ£o tipo, me dÃ¡ um exemplo onde isso aconteceu com vocÃª.
+corn_theft_27==Eu nÃ£o tenho que te dar nenhum dos meus exemplos!
+corn_theft_28==VocÃª tem algum exemplo ou nÃ£o, homenzinho.
+corn_theft_29==Homenzinho? O que vocÃª quer dizer com homenzinho-
+corn_theft_30==Okay, jÃ¡ deu pra mim. Faz ele calar a boca, amor.
+corn_theft_31==Beep.
+
+// MAZE //
+
+maze_1==Meu celular...
+maze_2==Olha o que vocÃªs dois fizeram!
+maze_3==VocÃªs nÃ£o fazem ideia do que acabaram de me meter!!
+maze_4==Ã‰ o quÃª?
+maze_5==VocÃªs dois vÃ£o morrer!
+maze_6==Boop!
+maze_7==Ã‰ isso.. Ã‰ isso!
+maze_8==Mais uma mÃºsica... Se vocÃª ganhar, E-Eu, uhh..
+maze_9==Eu acho que vou pra cama depois disso..
+maze_10==Aww, vocÃª ficou cansado com esse seu chilique todo, nÃ©? Quer um lencinho?
+maze_11==MEU DEUS DO CÃ‰U PARA.
+
+
+// MAZE END //
+
+maze_end_1==TÃ¡ bom... VocÃª venceu..
+maze_end_2==Yeah!
+maze_end_3==SÃ³, vai embora! Por favor.
+maze_end_4==Dave finalmente chega na Fazenda de Bambi.
+maze_end_5==Ih cacete!
+maze_end_6==Ei, tÃ´ aqui. Desculpa, eu tava atrasado.
+maze_end_7==Tristan estava um saco de acordar. Ele tava todo "Mas Pai.." aquilo, "Mas Pai.." lÃ¡.
+maze_end_8==NÃ£o fala de mim como se nÃ£o tivesse aqui!
+maze_end_9==VocÃª tem um filho? Que bonitinho!
+maze_end_10==Ã‰, ele Ã© uma crianÃ§a Ã³tima, nÃ£o Ã© mesmo amigÃ£o?
+maze_end_11==
+maze_end_12==Dave, esses forasteiros acabaram com meu dia! DÃ¡ pra vocÃª tirar eles daqui, por favor!
+maze_end_13==TÃ¡ falando sÃ©rio, Bambi? Eles sÃ£o meus amigos! Piquenique, tÃ¡ lembrado?
+maze_end_14==Espera...
+maze_end_15==...
+maze_end_16==Ã‰, perdÃ£o pelo comportamento do Bambi, galera. Ele tende a ser um pouco defensivo quando vocÃª pisa na propriedade dele...
+maze_end_17==Hah, disso a gente sabe.
+maze_end_18==Skedoo bop.
+maze_end_19==Ah. Ahhh, ahhhhhh!
+maze_end_20==ENTÃƒO EU FIQUEI BRAVO SOBRE SEUS AMIGOS E QUEBREI MEU CELULAR POR NADA?
+maze_end_21==EU ME SINTO TÃƒO ESTÃšPIDO! ...E sÃ³ um pouquinho arrependido.
+maze_end_22==TÃ¡ tudo bem Bambi, todo mundo comete erros de vez em quando!
+maze_end_23==AtÃ© mesmo alguns bem idiotas que podiam ser facilmente evitados.
+maze_end_24==Eu tÃ´ vendo esse seu sarcasmo aÃ­!
+maze_end_25==Beleza galera, que tal a gente comeÃ§ar esse piquenique!
+maze_end_26==AÃ­ sim, comida!
+maze_end_27==Beep!
+maze_end_28==Todos eventualmente se sentam e tÃªm um Ã³timo piquenique juntos.
+
+
+// SPLITATHON //
+
+splitathon_1==[NÃ³s continuamos com o grupo sentado do lado de fora e socializando.]
+splitathon_2==Ei, err, Boyfriend, nÃ£o Ã©?
+splitathon_3==Bo?
+splitathon_4==Eu sinto que nÃ³s nunca se resolvemos, desde que nÃ³s se enfrentamos...
+splitathon_5==Bop?
+splitathon_6==...Se resolvemos em quem Ã© o melhor em cantar, Ã© claro!
+splitathon_7==Boh.
+splitathon_8==Ah, vocÃªs querem batalhar agora entÃ£o? Eu posso arrumar umas coisas rapidinho, entÃ£o!
+splitathon_9==Perfeito, Ah, e jÃ¡ que esse Ã© o caso...
+splitathon_10==Eu quero que vocÃª bote a instrumental mais longa que tiver!
+splitathon_11==Caramba, sÃ©rio?... Bem, o melhor que posso fazer Ã© dez minutos!
+splitathon_12==Bem, bem! Que tal uma batalha de dez minutos, BF?
+splitathon_13==Yeah!
+splitathon_14==Quem durar mais tempo serÃ¡ considerado o melhor cantor.
+splitathon_15==Ei... E eu aqui? Eu tambÃ©m fiz o coisinho de cantar.
+splitathon_16==Ah, nÃ£o valeu, Bambi. Isso Ã© entre eu e ele!
+splitathon_17==... TÃ¡ bom!
+splitathon_18==[Bambi resmunga pra si, mas senta e assiste.]
+splitathon_19==Beleza, espero que esteja pronto, porque eu nÃ£o vou ser derrotado sem uma luta!
+splitathon_20==Beep bo bop!
+
+// SPLITATHON END //
+
+splitathon_end_1==Caramba, isso foi Ã³timo! Bom trabalho, BF!
+splitathon_end_2==Beep!
+splitathon_end_3==Digo o mesmo pra vocÃª, Bambi!
+splitathon_end_4==Huh, quem?
+splitathon_end_5==Eu fiquei um pouco irritado que vocÃª se intrometeu, mas vocÃª foi Ã³timo!
+splitathon_end_6==Ah... bem, NUNCA me subestime!
+splitathon_end_7==Heh, Mas acho que isso resolve isso. TÃ¡ ficando tarde demais, entÃ£o temos que ir logo pra casa.
+splitathon_end_8==Ah Ã©, eu acho que deverÃ­amos ir tambÃ©m.
+splitathon_end_9==Beep.
+splitathon_end_10==Foi bom ver vocÃªs dois. Me liga se vocÃªs quiserem sair de novo!
+splitathon_end_11==Yeah!
+splitathon_end_12==AtÃ© mais, Dave!
+splitathon_end_13==[BF e GF voltam para casa.]
+splitathon_end_14==Ah.. Isso foi divertido.
+splitathon_end_15==Seu filho tÃ¡ morto, Dave.
+splitathon_end_16==Ele tÃ¡ dormindo, nÃ£o fala uma coisa dessas!
+splitathon_end_17==Eh. De qualquer jeito, por que vocÃª trouxe o Tristan?
+splitathon_end_18==Eu sÃ³ queria que ele saÃ­sse um pouco de casa, mas parece que ele saiu um pouquinho demais.
+splitathon_end_19==Acho que ele tÃ¡ mortinho.
+splitathon_end_20==Ele nÃ£o tÃ¡ nada.
+
+// SHREDDER //
+
+shredder_1==ApÃ³s os eventos de Splitathon, BF e GF sÃ£o convidados para um festival para cantar com Dave e seus amigos semanas depois.
+shredder_2==OlÃ¡ vocÃªs dois!
+shredder_3==TÃ¡ pronto pra cantar, BF?
+shredder_4==Bep.
+shredder_5==Estamos um pouco escassos na questÃ£o de plateia mas vou dar o mÃ¡ximo pra dar um grande show!
+shredder_6==Geralmente somos muito bons em dar um.
+shredder_7==Ã“timo! Tenho uma lista de pessoas aqui pra vocÃª cantar com.
+shredder_8==Vai ser o Bambi, Tristan e depois eu!
+shredder_9==Se criarmos uma repercussÃ£o grande o bastante, talvez eu cante outra...
+shredder_10==Vamo lÃ¡!!!
+shredder_11==Beleza beleza, vou deixar vocÃªs comeÃ§arem!
+shredder_12==Yeah!
+
+// GREETINGS //
+
+greetings_cutscene_1==Mas que-
+greetings_cutscene_2==O que tÃ¡ acontecendo?
+greetings_cutscene_3==Espera, ah...ah nÃ£o...
+greetings_cutscene_4==Bep?
+
+// INTERDIMENSIONAL //
+
+interdimensional_1==UH OH DE NOVO NÃƒO
+interdimensional_2==ISSO NÃƒO Ã‰ UMA BOA HORA
+interdimensional_3==TEM PESSOAS AQUI EM VOLTA, ELAS PODEM SE MACHUCAR
+interdimensional_4==AJUDA
+interdimensional_5==ESPERA EU TENHO UMA IDEIA QUE PODE SALVAR A MIM E TODO MUND
+interdimensional_6==TENTA UMA BATALHA DE RAP COMIGO IGUAL DA ÃšLTIMA VEZ
+interdimensional_7==Boop bap
+
+// INTERDIMENSIONAL END // 
+
+interdimensional_end_1==Bem, eu acho que deverÃ­amos fazer qualquer outra coisa por enquanto..
+interdimensional_end_2==O festival continua por mais algumas horas atÃ© acabaer e Dave e os outros vÃ£o para casa.
+interdimensional_end_3==Apesar disso, BF e GF aparecem antes de Dave voltar para casa para uma Ãºltima mÃºsica.
+
+// RANO //
+
+rano_1==O que vocÃªs dois tÃ£o fazendo aqui?
+rano_2==Beep bep peep.
+rano_3==Outra mÃºsica? Pode ser.
+rano_4==Eu nÃ£o acho que inesperadamente mudar de dimensÃµes vai ocorrer duas vezes seguidas de qualquer jeito.
+
+
+// SUPERNOVAE //
+
+supernovae_1==Por que vocÃª tÃ¡ me ligando ?
+supernovae_2==Beep
+supernovae_3==Nao to entendendo
+supernovae_4==Fala brasil alienigena filho da-
+supernovae_5==Boop beep skdoop
+supernovae_6==Eu vou te dar block por que voce ta me ligando
+supernovae_7==Bora ter batalha de rap
+supernovae_8==Voce perde = leva block
+supernovae_9==TB ela perde voce perde
+
+// GLITCH //
+
+glitch_1==Para voce tenta ta me tentando trollar
+glitch_2==skdoo bep
+glitch_3==Ai meu deus voce tenta ta filmando
+glitch_4==Voce muda o teclado
+glitch_5==boop bop skippidy
+glitch_6==Seu mentiroso
+glitch_7==bep
+glitch_8==Ja chegar
+glitch_9==Voce ta me trollando
+glitch_10==Voce ganha esse jogo = Eu destruo meu celular
+
+// MASTER //
+
+master_1==CARA POR QUE VOCE FAZ ISSO
+master_2==EU VOU TE dar BLock...
+master_3==.....
+master_4==Por que voce faz isso comigo.
+master_5==Cara.
+master_6==Para.
+master_7==Eu nÃ£o entendo.
+master_8==VocÃª tÃ¡ me causando dano psicolÃ³gico grave
+master_9==Isso aqui era pra ser impossÃ­vel!
+master_10==E vocÃª sÃ³...
+master_11==Passou daquelas mÃºsicas como se fosse nada!
+master_12==Beep
+master_13==Isso nÃ£o tem mais graÃ§a.
+master_14==Minha cabeÃ§a vai literalmente explodir.
+master_15==Boop beep skdoop
+master_16==SÃ³ mais uma mÃºsica... Eu conseguiria mais uma mÃºsica...
