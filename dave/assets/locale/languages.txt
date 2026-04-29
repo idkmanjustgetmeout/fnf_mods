@@ -1,3 +1,0 @@
-English:en-US:RED
-Spanish:es-US:GREEN
-Portuguese-Brazilian:pt-br:YELLOW

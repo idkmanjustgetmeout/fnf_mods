@@ -1,3 +1,0 @@
-idle 0 0
-sad 0 162
-cheer 0 162
