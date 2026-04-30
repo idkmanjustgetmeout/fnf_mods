@@ -1,3 +1,0 @@
-i've discovered that the texts command accepts some character names, and some numbers as well.
-
-also pressing 7 sometimes causes weird stuff to happen??
