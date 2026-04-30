@@ -1,3 +1,0 @@
-danceLeft 30 0
-danceRight 0 0
-sad -50 -40
