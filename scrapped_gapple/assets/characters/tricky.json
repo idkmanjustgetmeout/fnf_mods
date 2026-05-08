@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tricky phase 6 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tricky phase 6 note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tricky phase 6 note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tricky phase 6 note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tricky phase 6 note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				30
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Tricky phase 6 scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trickysprites",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		188,
+		0
+	],
+	"camera_position": [
+		0,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
