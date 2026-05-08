@@ -1,0 +1,276 @@
+{
+	"song": {
+		"events": [
+			[
+				63092.7835051546,
+				[
+					[
+						"Camera Flash",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"scratchman-3d"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sky-scratches"
+					]
+				]
+			],
+			[
+				96494.8453608249,
+				[
+					[
+						"Change Character",
+						"dad",
+						"scratchman"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Camera Flash",
+						"FFFFFF",
+						"0.5"
+					]
+				]
+			],
+			[
+				116288.659793815,
+				[
+					[
+						"Play Animation",
+						"pullout",
+						"dad"
+					]
+				]
+			],
+			[
+				117525.773195877,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				118067.010309279,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				118685.56701031,
+				[
+					[
+						"Play Animation",
+						"talking1",
+						"dad"
+					]
+				]
+			],
+			[
+				121237.113402062,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				121778.350515464,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				122396.907216495,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				122706.185567011,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				123092.783505155,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				123402.06185567,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				123711.340206186,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				126185.56701031,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				126649.484536083,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				127113.402061856,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				127577.319587629,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				128041.237113402,
+				[
+					[
+						"Play Animation",
+						"talking2",
+						"dad"
+					]
+				]
+			],
+			[
+				128659.793814433,
+				[
+					[
+						"Change Character",
+						"dad",
+						"scratchgirl"
+					],
+					[
+						"Camera Flash",
+						"FFFFFF",
+						"0.5"
+					]
+				]
+			],
+			[
+				212783.50515464,
+				[
+					[
+						"Camera Flash",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"trickery-scratches"
+					],
+					[
+						"Change Character",
+						"dad",
+						"scratchman-3d"
+					]
+				]
+			],
+			[
+				254845.360824743,
+				[
+					[
+						"Change Character",
+						"bf",
+						"cynda-scratches"
+					]
+				]
+			],
+			[
+				296907.216494847,
+				[
+					[
+						"Camera Flash",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Change Character",
+						"gf",
+						"scratchgirl"
+					],
+					[
+						"Change Character",
+						"dad",
+						"scratchman"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
