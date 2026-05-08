@@ -6446,7 +6446,7 @@ ApplicationMain.main = function() {
 ApplicationMain.create = function(config) {
 	var app = new openfl_display_Application();
 	ManifestResources.init(config);
-	app.meta.h["build"] = "1";
+	app.meta.h["build"] = "3";
 	app.meta.h["company"] = "ShadowMario";
 	app.meta.h["file"] = "golden";
 	app.meta.h["name"] = "Vs. Dave and Bambi: Golden Apple";
@@ -37029,7 +37029,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 				_this.set_y((flixel_FlxG.height - _this.get_height()) / 2);
 			}
 			this.add(this.factory);
-			this.spoarFolk = new flixel_FlxSprite(200,175);
+			this.spoarFolk = new flixel_FlxSprite(200,150);
 			var tmp = this.spoarFolk;
 			var library = null;
 			var returnAsset = Paths.returnGraphic("sart/spoar_folk",library);
@@ -37037,7 +37037,6 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 			this.spoarFolk.animation.addByPrefix("idle","dance",24,true);
 			this.spoarFolk.animation.addByPrefix("move","uncle klunk move0",24,false);
 			this.spoarFolk.animation.play("idle");
-			this.spoarFolk.setPosition(600,500);
 			this.spoarFolk.set_alpha(0);
 			this.add(this.spoarFolk);
 			this.poop = new flixel_FlxSprite(this.factory.x,this.factory.y);
@@ -38629,7 +38628,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 		}
 		this.playbackRate = value;
 		flixel_animation_FlxAnimationController.globalSpeed = value;
-		haxe_Log.trace("Anim speed: " + flixel_animation_FlxAnimationController.globalSpeed,{ fileName : "source/PlayState.hx", lineNumber : 2897, className : "PlayState", methodName : "set_playbackRate"});
+		haxe_Log.trace("Anim speed: " + flixel_animation_FlxAnimationController.globalSpeed,{ fileName : "source/PlayState.hx", lineNumber : 2896, className : "PlayState", methodName : "set_playbackRate"});
 		Conductor.safeZoneOffset = ClientPrefs.safeFrames / 60 * 1000 * value;
 		this.setOnLuas("playbackRate",this.playbackRate);
 		return value;
@@ -40794,7 +40793,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 		}
 		if(!ClientPrefs.noReset && PlayerSettings.player1.controls._reset.check() && this.canReset && !this.inCutscene && this.startedCountdown && !this.endingSong) {
 			this.health = 0;
-			haxe_Log.trace("RESET = True",{ fileName : "source/PlayState.hx", lineNumber : 5103, className : "PlayState", methodName : "update"});
+			haxe_Log.trace("RESET = True",{ fileName : "source/PlayState.hx", lineNumber : 5102, className : "PlayState", methodName : "update"});
 		}
 		this.doDeathCheck();
 		if(this.unspawnNotes[0] != null) {
@@ -41123,7 +41122,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 			}
 			switch(charType) {
 			case 0:
-				haxe_Log.trace("Changing boyfriend from " + this.boyfriend.curCharacter + " to " + value2,{ fileName : "source/PlayState.hx", lineNumber : 5869, className : "PlayState", methodName : "triggerEventNote"});
+				haxe_Log.trace("Changing boyfriend from " + this.boyfriend.curCharacter + " to " + value2,{ fileName : "source/PlayState.hx", lineNumber : 5868, className : "PlayState", methodName : "triggerEventNote"});
 				if(this.boyfriend.curCharacter != value2) {
 					if(!Object.prototype.hasOwnProperty.call(this.boyfriendMap.h,value2)) {
 						this.addCharacterToList(value2,charType);
@@ -42158,12 +42157,12 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					PlayState.changedDifficulty = false;
 				} else {
 					var difficulty = CoolUtil.getDifficultyFilePath();
-					haxe_Log.trace("LOADING NEXT SONG",{ fileName : "source/PlayState.hx", lineNumber : 6173, className : "PlayState", methodName : "endSong"});
+					haxe_Log.trace("LOADING NEXT SONG",{ fileName : "source/PlayState.hx", lineNumber : 6172, className : "PlayState", methodName : "endSong"});
 					var path = PlayState.storyPlaylist[0];
 					var invalidChars = new EReg("[~&\\\\;:<>#]","");
 					var hideChars = new EReg("[.,'\"%?!]","");
 					var path1 = invalidChars.split(StringTools.replace(path," ","-")).join("-");
-					haxe_Log.trace(hideChars.split(path1).join("").toLowerCase() + difficulty,{ fileName : "source/PlayState.hx", lineNumber : 6174, className : "PlayState", methodName : "endSong"});
+					haxe_Log.trace(hideChars.split(path1).join("").toLowerCase() + difficulty,{ fileName : "source/PlayState.hx", lineNumber : 6173, className : "PlayState", methodName : "endSong"});
 					var path = PlayState.SONG.song;
 					var invalidChars = new EReg("[~&\\\\;:<>#]","");
 					var hideChars = new EReg("[.,'\"%?!]","");
@@ -42194,7 +42193,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					}
 				}
 			} else {
-				haxe_Log.trace("WENT BACK TO FREEPLAY??",{ fileName : "source/PlayState.hx", lineNumber : 6210, className : "PlayState", methodName : "endSong"});
+				haxe_Log.trace("WENT BACK TO FREEPLAY??",{ fileName : "source/PlayState.hx", lineNumber : 6209, className : "PlayState", methodName : "endSong"});
 				WeekData.loadTheFirstEnabledMod();
 				PlayState.cancelMusicFadeTween();
 				if(flixel_addons_transition_FlxTransitionableState.skipNextTransIn) {
@@ -42214,7 +42213,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 		this.achievementObj = new AchievementObject(achieve,this.camOther);
 		this.achievementObj.onFinish = $bind(this,this.achievementEnd);
 		this.add(this.achievementObj);
-		haxe_Log.trace("Giving achievement " + achieve,{ fileName : "source/PlayState.hx", lineNumber : 6230, className : "PlayState", methodName : "startAchievement"});
+		haxe_Log.trace("Giving achievement " + achieve,{ fileName : "source/PlayState.hx", lineNumber : 6229, className : "PlayState", methodName : "startAchievement"});
 	}
 	,achievementEnd: function() {
 		this.achievementObj = null;
@@ -136591,7 +136590,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 823934;
+	this.version = 294234;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
