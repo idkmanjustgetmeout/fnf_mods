@@ -6446,7 +6446,7 @@ ApplicationMain.main = function() {
 ApplicationMain.create = function(config) {
 	var app = new openfl_display_Application();
 	ManifestResources.init(config);
-	app.meta.h["build"] = "2";
+	app.meta.h["build"] = "1";
 	app.meta.h["company"] = "ShadowMario";
 	app.meta.h["file"] = "golden";
 	app.meta.h["name"] = "Vs. Dave and Bambi: Golden Apple";
@@ -136591,7 +136591,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 393404;
+	this.version = 823934;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
