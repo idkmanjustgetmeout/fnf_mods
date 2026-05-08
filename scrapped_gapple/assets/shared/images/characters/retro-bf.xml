@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="retro-bf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="274" y="0" width="271" height="291"/>
+	<SubTexture name="idle0000" x="0" y="0" width="270" height="270"/>
+	<SubTexture name="left0000" x="274" y="0" width="271" height="291"/>
+	<SubTexture name="right0000" x="274" y="0" width="271" height="291"/>
+	<SubTexture name="up0000" x="274" y="0" width="271" height="291"/>
+</TextureAtlas>
