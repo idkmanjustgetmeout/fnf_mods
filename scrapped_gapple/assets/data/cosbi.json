@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dance",
+			"fps": 24,
+			"name": "dancey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cosbi_groove",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "cosbi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-400,
+		-800
+	],
+	"sing_duration": 6.1,
+	"scale": 2.8
+}

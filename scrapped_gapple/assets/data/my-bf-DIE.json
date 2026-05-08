@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				3
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "die"
+		},
+		{
+			"offsets": [
+				55,
+				179
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loopdie"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/my-bf-DIE",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mybf",
+	"flip_x": true,
+	"healthbar_colors": [
+		1,
+		179,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

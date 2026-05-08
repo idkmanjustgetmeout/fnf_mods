@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "screwed dingle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "screwed dingle down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "screwed dingle up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "screwed dingle right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "screwed dingle idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/screwed_dingle",
+	"position": [
+		0,
+		-300
+	],
+	"healthicon": "dinglicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
