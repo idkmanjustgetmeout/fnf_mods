@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="old_ost_guys.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bombom fixed0000" x="10" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0001" x="10" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0002" x="369" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0003" x="369" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0004" x="728" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0005" x="728" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0006" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0007" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0008" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0009" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0010" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0011" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0012" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="bombom fixed0013" x="1087" y="10" width="349" height="357"/>
+	<SubTexture name="look at the fatbutt fixed0000" x="1446" y="10" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0001" x="1446" y="10" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0002" x="10" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0003" x="10" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0004" x="489" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0005" x="489" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0006" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0007" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0008" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0009" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0010" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0011" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0012" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="look at the fatbutt fixed0013" x="968" y="417" width="469" height="397"/>
+	<SubTexture name="rip man fixed0000" x="1447" y="417" width="550" height="457"/>
+	<SubTexture name="rip man fixed0001" x="1447" y="417" width="550" height="457"/>
+	<SubTexture name="rip man fixed0002" x="10" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0003" x="10" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0004" x="570" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0005" x="570" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0006" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0007" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0008" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0009" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0010" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0011" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0012" x="1130" y="884" width="550" height="457"/>
+	<SubTexture name="rip man fixed0013" x="1130" y="884" width="550" height="457"/>
+</TextureAtlas>
