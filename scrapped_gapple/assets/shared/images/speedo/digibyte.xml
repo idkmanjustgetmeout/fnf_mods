@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="digibyte.png">
+<SubTexture name="digibyte idle0000" x="246" y="0" width="140" height="66" frameX="-42" frameY="-56" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0001" x="0" y="74" width="130" height="71" frameX="-47" frameY="-61" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0002" x="124" y="0" width="122" height="73" frameX="-51" frameY="-70" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0003" x="0" y="0" width="124" height="74" frameX="-50" frameY="-82" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0004" x="0" y="145" width="136" height="68" frameX="-44" frameY="-98" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0005" x="0" y="277" width="154" height="61" frameX="-35" frameY="-114" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0006" x="314" y="338" width="170" height="55" frameX="-27" frameY="-126" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0007" x="0" y="399" width="176" height="52" frameX="-24" frameY="-133" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0008" x="0" y="399" width="176" height="52" frameX="-24" frameY="-133" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0009" x="314" y="338" width="170" height="55" frameX="-27" frameY="-126" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0010" x="0" y="277" width="154" height="61" frameX="-35" frameY="-114" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0011" x="0" y="145" width="136" height="68" frameX="-44" frameY="-98" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0012" x="0" y="0" width="124" height="74" frameX="-50" frameY="-82" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0013" x="124" y="0" width="122" height="73" frameX="-51" frameY="-70" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0014" x="0" y="74" width="130" height="71" frameX="-47" frameY="-61" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0015" x="246" y="66" width="140" height="66" frameX="-42" frameY="-56" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0016" x="0" y="213" width="148" height="64" frameX="-38" frameY="-52" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0017" x="148" y="213" width="154" height="62" frameX="-35" frameY="-50" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0018" x="154" y="277" width="156" height="61" frameX="-34" frameY="-49" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0019" x="386" y="61" width="156" height="60" frameX="-34" frameY="-49" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0020" x="386" y="0" width="156" height="61" frameX="-34" frameY="-48" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0021" x="0" y="338" width="157" height="61" frameX="-33" frameY="-48" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0022" x="157" y="338" width="157" height="61" frameX="-33" frameY="-48" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0023" x="157" y="338" width="157" height="61" frameX="-33" frameY="-48" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0024" x="0" y="338" width="157" height="61" frameX="-33" frameY="-48" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0025" x="386" y="0" width="156" height="61" frameX="-34" frameY="-48" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0026" x="386" y="61" width="156" height="60" frameX="-34" frameY="-49" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0027" x="154" y="277" width="156" height="61" frameX="-34" frameY="-49" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0028" x="148" y="213" width="154" height="62" frameX="-35" frameY="-50" frameWidth="200" frameHeight="185" />
+<SubTexture name="digibyte idle0029" x="0" y="213" width="148" height="64" frameX="-38" frameY="-52" frameWidth="200" frameHeight="185" />
+</TextureAtlas>
