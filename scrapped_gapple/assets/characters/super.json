@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bambert idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bambert note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bambert note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bambert note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bambert note Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/novae",
+	"position": [
+		-40,
+		350
+	],
+	"healthicon": "super",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		195,
+		5
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

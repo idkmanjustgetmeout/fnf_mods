@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				221,
+				-314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				240,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				49,
+				-207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				30,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				80,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "ridle"
+		},
+		{
+			"offsets": [
+				80,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ridle"
+		},
+		{
+			"offsets": [
+				36,
+				-290
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "lidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squash",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "big_forehead",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		36,
+		230
+	],
+	"camera_position": [
+		-300,
+		420
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

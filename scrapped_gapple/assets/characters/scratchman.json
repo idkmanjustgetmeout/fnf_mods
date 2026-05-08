@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				1
+			],
+			"anim": "pullout",
+			"fps": 24,
+			"name": "pullout instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				1
+			],
+			"anim": "talking1",
+			"fps": 24,
+			"name": "talk1 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				1
+			],
+			"anim": "talking2",
+			"fps": 24,
+			"name": "talk2 instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scratchman100",
+	"position": [
+		-30,
+		330
+	],
+	"healthicon": "man",
+	"flip_x": false,
+	"healthbar_colors": [
+		21,
+		46,
+		239
+	],
+	"camera_position": [
+		-40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

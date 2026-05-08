@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "joining",
+			"fps": 24,
+			"name": "Flaw dave joins",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "talking",
+			"fps": 24,
+			"name": "Flaw dave talks",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "sadbye",
+			"fps": 24,
+			"name": "Flaw dave Sadbye",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Flaw dave idle"
+		},
+		{
+			"offsets": [
+				-30,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gayLeft",
+			"indices": [],
+			"name": "Flaw dave danceLeft"
+		},
+		{
+			"offsets": [
+				166,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gayRight",
+			"indices": [],
+			"name": "Flaw dave danceRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "sadbyetalk",
+			"fps": 24,
+			"name": "Flaw dave Sadbye talk",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-46,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "Flaw dave sad"
+		},
+		{
+			"offsets": [
+				-46,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sadtalk",
+			"indices": [],
+			"name": "Flaw dave sad talk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flaw_Dave_sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "og-dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		-340,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

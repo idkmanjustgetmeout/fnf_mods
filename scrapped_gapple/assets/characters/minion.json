@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceLeft"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceRight"
+		},
+		{
+			"offsets": [
+				-6,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "startDance",
+			"indices": [],
+			"name": "start-dance"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end-dance",
+			"indices": [],
+			"name": "end-dance"
+		},
+		{
+			"offsets": [
+				-76,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-dead",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				-14,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-dance",
+			"indices": [],
+			"name": "dancing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minion_bambi_gf",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		200,
+		133
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
