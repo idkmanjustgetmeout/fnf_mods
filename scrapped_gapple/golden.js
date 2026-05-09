@@ -6446,7 +6446,7 @@ ApplicationMain.main = function() {
 ApplicationMain.create = function(config) {
 	var app = new openfl_display_Application();
 	ManifestResources.init(config);
-	app.meta.h["build"] = "3";
+	app.meta.h["build"] = "5";
 	app.meta.h["company"] = "ShadowMario";
 	app.meta.h["file"] = "golden";
 	app.meta.h["name"] = "Vs. Dave and Bambi: Golden Apple";
@@ -39159,7 +39159,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 			++_g;
 			var returnAsset = Paths.returnGraphic(asset,null);
 		}
-		if(PlayState.curStage == "myhouse") {
+		if(PlayState.curStage == "myhouse" || PlayState.curStage == "2d") {
 			Paths.sound("countdown/dave/intro3");
 			Paths.sound("countdown/dave/intro2");
 			Paths.sound("countdown/dave/intro1");
@@ -39304,7 +39304,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 				}
 				switch(swagCounter) {
 				case 0:
-					if(PlayState.curStage == "myhouse") {
+					if(PlayState.curStage == "myhouse" || PlayState.curStage == "2d") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/dave/intro3"),0.6);
 					} else if(PlayState.curStage == "poop") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/awesomeson/intro3"),0.6);
@@ -39322,7 +39322,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					_gthis.countdownReady.set_cameras([_gthis.camHUD]);
 					_gthis.countdownReady.scrollFactor.set();
 					_gthis.countdownReady.updateHitbox();
-					if(PlayState.curStage == "myhouse") {
+					if(PlayState.curStage == "myhouse" || PlayState.curStage == "2d") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/dave/intro2"),0.6);
 					} else if(PlayState.curStage == "poop") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/awesomeson/intro2"),0.6);
@@ -39372,7 +39372,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					_gthis.countdownSet = tmp.loadGraphic(returnAsset);
 					_gthis.countdownSet.set_cameras([_gthis.camHUD]);
 					_gthis.countdownSet.scrollFactor.set();
-					if(PlayState.curStage == "myhouse") {
+					if(PlayState.curStage == "myhouse" || PlayState.curStage == "2d") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/dave/intro1"),0.6);
 					} else if(PlayState.curStage == "poop") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/awesomeson/intro1"),0.6);
@@ -39417,7 +39417,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					}});
 					break;
 				case 3:
-					if(PlayState.curStage == "myhouse") {
+					if(PlayState.curStage == "myhouse" || PlayState.curStage == "2d") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/dave/introGo"),0.6);
 					} else if(PlayState.curStage == "poop") {
 						flixel_FlxG.sound.play(Paths.sound("countdown/awesomeson/introGo"),0.6);
@@ -136590,7 +136590,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 294234;
+	this.version = 22110;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
