@@ -6446,7 +6446,7 @@ ApplicationMain.main = function() {
 ApplicationMain.create = function(config) {
 	var app = new openfl_display_Application();
 	ManifestResources.init(config);
-	app.meta.h["build"] = "5";
+	app.meta.h["build"] = "6";
 	app.meta.h["company"] = "ShadowMario";
 	app.meta.h["file"] = "golden";
 	app.meta.h["name"] = "Vs. Dave and Bambi: Golden Apple";
@@ -39440,7 +39440,17 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					_gthis.countdownGo = tmp.loadGraphic(returnAsset);
 					_gthis.countdownGo.set_cameras([_gthis.camHUD]);
 					_gthis.countdownGo.scrollFactor.set();
-					if(PlayState.isPixelStage) {
+					if(openfl_utils_Assets.exists(Paths.getPath("images/goAnim.xml","TEXT"))) {
+						var _gthis1 = _gthis.countdownGo;
+						var library = null;
+						var returnAsset = Paths.returnGraphic("goAnim",library);
+						_gthis1.set_frames(flixel_graphics_frames_FlxAtlasFrames.fromSparrow(returnAsset,Paths.getPath("images/" + "goAnim" + ".xml","TEXT",library)));
+						_gthis.countdownGo.animation.addByPrefix("idle","G",24,false);
+						_gthis.countdownGo.animation.play("idle");
+						_gthis.countdownGo.set_cameras([_gthis.camGame]);
+						var goScale = 1.7;
+						_gthis.countdownGo.scale.set(0.7 * goScale,0.7 * goScale);
+					} else if(PlayState.isPixelStage) {
 						_gthis.countdownGo.setGraphicSize(_gthis.countdownGo.get_width() * PlayState.daPixelZoom | 0);
 					}
 					_gthis.countdownGo.updateHitbox();
@@ -39468,6 +39478,8 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					if(tmp) {
 						_this.set_y((flixel_FlxG.height - _this.get_height()) / 2);
 					}
+					var fh = _gthis.countdownGo;
+					fh.set_y(fh.y + 50);
 					_gthis.countdownGo.set_antialiasing(antialias);
 					_gthis.insert(_gthis.members.indexOf(_gthis.notes),_gthis.countdownGo);
 					flixel_tweens_FlxTween.tween(_gthis.countdownGo,{ alpha : 0},Conductor.crochet / 1000,{ ease : flixel_tweens_FlxEase.cubeInOut, onComplete : function(twn) {
@@ -40793,7 +40805,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 		}
 		if(!ClientPrefs.noReset && PlayerSettings.player1.controls._reset.check() && this.canReset && !this.inCutscene && this.startedCountdown && !this.endingSong) {
 			this.health = 0;
-			haxe_Log.trace("RESET = True",{ fileName : "source/PlayState.hx", lineNumber : 5102, className : "PlayState", methodName : "update"});
+			haxe_Log.trace("RESET = True",{ fileName : "source/PlayState.hx", lineNumber : 5110, className : "PlayState", methodName : "update"});
 		}
 		this.doDeathCheck();
 		if(this.unspawnNotes[0] != null) {
@@ -41122,7 +41134,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 			}
 			switch(charType) {
 			case 0:
-				haxe_Log.trace("Changing boyfriend from " + this.boyfriend.curCharacter + " to " + value2,{ fileName : "source/PlayState.hx", lineNumber : 5868, className : "PlayState", methodName : "triggerEventNote"});
+				haxe_Log.trace("Changing boyfriend from " + this.boyfriend.curCharacter + " to " + value2,{ fileName : "source/PlayState.hx", lineNumber : 5876, className : "PlayState", methodName : "triggerEventNote"});
 				if(this.boyfriend.curCharacter != value2) {
 					if(!Object.prototype.hasOwnProperty.call(this.boyfriendMap.h,value2)) {
 						this.addCharacterToList(value2,charType);
@@ -42157,12 +42169,12 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					PlayState.changedDifficulty = false;
 				} else {
 					var difficulty = CoolUtil.getDifficultyFilePath();
-					haxe_Log.trace("LOADING NEXT SONG",{ fileName : "source/PlayState.hx", lineNumber : 6172, className : "PlayState", methodName : "endSong"});
+					haxe_Log.trace("LOADING NEXT SONG",{ fileName : "source/PlayState.hx", lineNumber : 6180, className : "PlayState", methodName : "endSong"});
 					var path = PlayState.storyPlaylist[0];
 					var invalidChars = new EReg("[~&\\\\;:<>#]","");
 					var hideChars = new EReg("[.,'\"%?!]","");
 					var path1 = invalidChars.split(StringTools.replace(path," ","-")).join("-");
-					haxe_Log.trace(hideChars.split(path1).join("").toLowerCase() + difficulty,{ fileName : "source/PlayState.hx", lineNumber : 6173, className : "PlayState", methodName : "endSong"});
+					haxe_Log.trace(hideChars.split(path1).join("").toLowerCase() + difficulty,{ fileName : "source/PlayState.hx", lineNumber : 6181, className : "PlayState", methodName : "endSong"});
 					var path = PlayState.SONG.song;
 					var invalidChars = new EReg("[~&\\\\;:<>#]","");
 					var hideChars = new EReg("[.,'\"%?!]","");
@@ -42193,7 +42205,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 					}
 				}
 			} else {
-				haxe_Log.trace("WENT BACK TO FREEPLAY??",{ fileName : "source/PlayState.hx", lineNumber : 6209, className : "PlayState", methodName : "endSong"});
+				haxe_Log.trace("WENT BACK TO FREEPLAY??",{ fileName : "source/PlayState.hx", lineNumber : 6217, className : "PlayState", methodName : "endSong"});
 				WeekData.loadTheFirstEnabledMod();
 				PlayState.cancelMusicFadeTween();
 				if(flixel_addons_transition_FlxTransitionableState.skipNextTransIn) {
@@ -42213,7 +42225,7 @@ PlayState.prototype = $extend(MusicBeatState.prototype,{
 		this.achievementObj = new AchievementObject(achieve,this.camOther);
 		this.achievementObj.onFinish = $bind(this,this.achievementEnd);
 		this.add(this.achievementObj);
-		haxe_Log.trace("Giving achievement " + achieve,{ fileName : "source/PlayState.hx", lineNumber : 6229, className : "PlayState", methodName : "startAchievement"});
+		haxe_Log.trace("Giving achievement " + achieve,{ fileName : "source/PlayState.hx", lineNumber : 6237, className : "PlayState", methodName : "startAchievement"});
 	}
 	,achievementEnd: function() {
 		this.achievementObj = null;
@@ -136590,7 +136602,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 22110;
+	this.version = 306141;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
