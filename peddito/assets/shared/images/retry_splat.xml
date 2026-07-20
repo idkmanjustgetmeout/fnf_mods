@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="retry_splat.png">
+  <SubTexture name="retry_0" x="1" y="1" width="437" height="169"/>
+  <SubTexture name="retry_1" x="439" y="1" width="437" height="169"/>
+  <SubTexture name="retry_2" x="877" y="1" width="437" height="169"/>
+  <SubTexture name="retry_3" x="1315" y="1" width="437" height="169"/>
+  <SubTexture name="retry_4" x="1753" y="1" width="437" height="169"/>
+  <SubTexture name="retry_5" x="2191" y="1" width="437" height="169"/>
+  <SubTexture name="retry_6" x="1" y="171" width="437" height="169"/>
+  <SubTexture name="retry_7" x="439" y="171" width="437" height="169"/>
+  <SubTexture name="retry_8" x="877" y="171" width="437" height="169"/>
+  <SubTexture name="retry_9" x="1315" y="171" width="437" height="169"/>
+  <SubTexture name="retry_10" x="1753" y="171" width="437" height="169"/>
+  <SubTexture name="retry_11" x="2191" y="171" width="437" height="169"/>
+  <SubTexture name="retry_12" x="1" y="341" width="437" height="169"/>
+  <SubTexture name="retry_13" x="439" y="341" width="437" height="169"/>
+  <SubTexture name="retry_14" x="877" y="341" width="437" height="169"/>
+  <SubTexture name="retry_15" x="1315" y="341" width="437" height="169"/>
+  <SubTexture name="retry_16" x="1753" y="341" width="437" height="169"/>
+  <SubTexture name="retry_17" x="2191" y="341" width="437" height="169"/>
+  <SubTexture name="retry_18" x="1" y="511" width="437" height="169"/>
+  <SubTexture name="retry_19" x="439" y="511" width="437" height="169"/>
+  <SubTexture name="retry_20" x="877" y="511" width="437" height="169"/>
+  <SubTexture name="retry_21" x="1315" y="511" width="437" height="169"/>
+  <SubTexture name="retry_22" x="1753" y="511" width="437" height="169"/>
+  <SubTexture name="retry_23" x="2191" y="511" width="437" height="169"/>
+  <SubTexture name="retry_24" x="1" y="681" width="437" height="169"/>
+  <SubTexture name="retry_25" x="439" y="681" width="437" height="169"/>
+  <SubTexture name="retry_26" x="877" y="681" width="437" height="169"/>
+  <SubTexture name="retry_27" x="1315" y="681" width="437" height="169"/>
+  <SubTexture name="retry_28" x="1753" y="681" width="437" height="169"/>
+  <SubTexture name="retry_29" x="2191" y="681" width="437" height="169"/>
+  <SubTexture name="retry_30" x="1" y="851" width="437" height="169"/>
+  <SubTexture name="retry_31" x="439" y="851" width="437" height="169"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yousuck_gameover.png">
+<SubTexture name="yousuck_gameover usuck0000" x="0" y="0" width="498" height="564" frameX="-138" frameY="-22" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0001" x="498" y="0" width="498" height="563" frameX="-138" frameY="-23" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0002" x="996" y="0" width="498" height="563" frameX="-138" frameY="-23" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0003" x="0" y="564" width="498" height="563" frameX="-138" frameY="-23" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0004" x="498" y="564" width="498" height="563" frameX="-138" frameY="-23" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0005" x="1494" y="0" width="498" height="562" frameX="-138" frameY="-24" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0006" x="1494" y="562" width="498" height="562" frameX="-138" frameY="-24" frameWidth="800" frameHeight="600" />
+<SubTexture name="yousuck_gameover usuck0007" x="996" y="564" width="498" height="562" frameX="-138" frameY="-24" frameWidth="800" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+  <SubTexture name="doiright" x="0" y="0" width="292" height="300"/>
+  <SubTexture name="doiright1" x="0" y="0" width="292" height="300"/>
+  <SubTexture name="doisephase15" x="560" y="1" width="203" height="288"/>
+  <SubTexture name="doisephase14" x="583" y="1" width="290" height="300"/>
+  <SubTexture name="doisephase13" x="874" y="1" width="290" height="300"/>
+  <SubTexture name="doisephase12" x="1" y="302" width="290" height="300"/>
+  <SubTexture name="doisephase11" x="292" y="302" width="290" height="300"/>
+  <SubTexture name="doisephase10" x="583" y="302" width="290" height="300"/>
+  <SubTexture name="doisephase9" x="874" y="302" width="290" height="300"/>
+  <SubTexture name="doisephase3" x="1" y="603" width="290" height="300"/>
+  <SubTexture name="doisephase1" x="292" y="603" width="290" height="300"/>
+</TextureAtlas>

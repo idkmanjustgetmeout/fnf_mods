@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peddito_death_animation.png">
+  <SubTexture name="death_0" x="1" y="1" width="960" height="540"/>
+  <SubTexture name="death_1" x="962" y="1" width="960" height="540"/>
+  <SubTexture name="death_2" x="1923" y="1" width="960" height="540"/>
+  <SubTexture name="death_3" x="2884" y="1" width="960" height="540"/>
+  <SubTexture name="death_4" x="3845" y="1" width="960" height="540"/>
+  <SubTexture name="death_5" x="1" y="542" width="960" height="540"/>
+  <SubTexture name="death_6" x="962" y="542" width="960" height="540"/>
+  <SubTexture name="death_7" x="1923" y="542" width="960" height="540"/>
+  <SubTexture name="death_8" x="2884" y="542" width="960" height="540"/>
+  <SubTexture name="death_9" x="3845" y="542" width="960" height="540"/>
+  <SubTexture name="death_10" x="1" y="1083" width="960" height="540"/>
+  <SubTexture name="death_11" x="962" y="1083" width="960" height="540"/>
+  <SubTexture name="death_12" x="1923" y="1083" width="960" height="540"/>
+  <SubTexture name="death_13" x="2884" y="1083" width="960" height="540"/>
+  <SubTexture name="death_14" x="3845" y="1083" width="960" height="540"/>
+  <SubTexture name="death_15" x="1" y="1624" width="960" height="540"/>
+  <SubTexture name="death_16" x="962" y="1624" width="960" height="540"/>
+  <SubTexture name="death_17" x="1923" y="1624" width="960" height="540"/>
+  <SubTexture name="death_18" x="2884" y="1624" width="960" height="540"/>
+</TextureAtlas>

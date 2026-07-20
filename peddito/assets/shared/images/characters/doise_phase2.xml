@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doise_phase2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="doisep2 Idle 0000" x="235" y="559" width="236" height="224" frameX="-83" frameY="-59" frameWidth="421" frameHeight="302"/>
+	<SubTexture name="doisep2 Idle 0001" x="0" y="559" width="235" height="227" frameX="-84" frameY="-55" frameWidth="421" frameHeight="302"/>
+	
+	<SubTexture name="doisep2 SingRIGHT 0000" x="0" y="287" width="244" height="272" frameX="-23" frameY="-8" frameWidth="421" frameHeight="302"/>
+	<SubTexture name="doisep2 SingRIGHT 0001" x="244" y="287" width="238" height="258" frameX="-40" frameY="-22" frameWidth="421" frameHeight="302"/>
+	
+	<SubTexture name="doisep2 SingUP 0000" x="663" y="254" width="222" height="255" frameX="-115" frameY="-24" frameWidth="421" frameHeight="302"/>
+	<SubTexture name="doisep2 SingUP 0001" x="663" y="0" width="236" height="254" frameX="-93" frameY="-26" frameWidth="421" frameHeight="302"/>
+	
+	<SubTexture name="doisep2 SingLEFT 0000" x="0" y="0" width="331" height="287" frameX="-73" frameY="-11" frameWidth="421" frameHeight="302"/>
+	<SubTexture name="doisep2 SingLEFT 0001" x="331" y="0" width="332" height="284" frameX="-78" frameY="-17" frameWidth="421" frameHeight="302"/>
+	
+	<SubTexture name="doisep2 SingDOWN 0000" x="471" y="559" width="254" height="157" frameX="-89" frameY="-126" frameWidth="421" frameHeight="302"/>
+	<SubTexture name="doisep2 SingDOWN 0001" x="899" y="0" width="245" height="162" frameX="-91" frameY="-120" frameWidth="421" frameHeight="302"/>
+</TextureAtlas>

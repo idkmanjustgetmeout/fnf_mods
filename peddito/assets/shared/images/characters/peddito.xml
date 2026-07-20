@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peddito.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="peddito SingUP 0000" x="175" y="431" width="154" height="198" frameX="-85" frameY="-28" frameWidth="331" frameHeight="269"/>
+	<SubTexture name="peddito SingUP 0001" x="222" y="230" width="158" height="200" frameX="-89" frameY="-30" frameWidth="331" frameHeight="269"/>
+	
+	<SubTexture name="peddito SingRIGHT 0000" x="0" y="431" width="175" height="216" frameX="-110" frameY="-38" frameWidth="331" frameHeight="269"/>
+	<SubTexture name="peddito SingRIGHT 0001" x="723" y="0" width="139" height="224" frameX="-114" frameY="-27" frameWidth="331" frameHeight="269"/>
+	
+	<SubTexture name="peddito SingLEFT 0000" x="0" y="230" width="222" height="201" frameX="-55" frameY="-38" frameWidth="331" frameHeight="269"/>
+	<SubTexture name="peddito SingLEFT 0001" x="515" y="0" width="208" height="204" frameX="-62" frameY="-42" frameWidth="331" frameHeight="269"/>
+	
+	<SubTexture name="peddito SingDOWN 0000" x="0" y="0" width="259" height="230" frameX="-17" frameY="-38" frameWidth="331" frameHeight="269"/>
+	<SubTexture name="peddito SingDOWN 0001" x="259" y="0" width="256" height="215" frameX="-21" frameY="-41" frameWidth="331" frameHeight="269"/>
+	
+	<SubTexture name="peddito Idle 0000" x="515" y="204" width="195" height="202" frameX="-83" frameY="-38" frameWidth="331" frameHeight="269"/>
+</TextureAtlas>
+

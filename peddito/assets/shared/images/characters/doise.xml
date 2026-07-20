@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doise.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="doise SingRIGHT 0000" x="558" y="0" width="206" height="285" frameX="1" frameY="-4" frameWidth="290" frameHeight="300"/>
+	<SubTexture name="doise SingRIGHT 0001" x="764" y="0" width="224" height="254" frameX="2" frameY="-36" frameWidth="290" frameHeight="300"/>
+	
+	<SubTexture name="doise SingLEFT 0000" x="0" y="0" width="282" height="296" frameX="-8" frameY="-5" frameWidth="290" frameHeight="300"/>
+	<SubTexture name="doise SingLEFT 0001" x="282" y="0" width="276" height="270" frameX="-5" frameY="-31" frameWidth="290" frameHeight="300"/>
+	
+	<SubTexture name="doise SingDOWN 0000" x="0" y="296" width="241" height="246" frameX="-8" frameY="-35" frameWidth="290" frameHeight="300"/>
+	<SubTexture name="doise SingDOWN 0001" x="241" y="296" width="255" height="228" frameX="-4" frameY="-53" frameWidth="290" frameHeight="300"/>
+	
+	<SubTexture name="doise Idle 0000" x="0" y="542" width="236" height="227" frameX="-1" frameY="-53" frameWidth="290" frameHeight="300"/>
+	<SubTexture name="doise Idle 00001" x="236" y="542" width="239" height="224" frameX="-1" frameY="-58" frameWidth="290" frameHeight="300"/>
+	
+	<SubTexture name="doise SingUP 0000" x="988" y="0" width="159" height="289" frameX="-30" frameY="2" frameWidth="290" frameHeight="300"/>
+	<SubTexture name="doise SingUP 0001" x="764" y="254" width="174" height="277" frameX="-22" frameY="-10" frameWidth="290" frameHeight="300"/>
+	
+</TextureAtlas>

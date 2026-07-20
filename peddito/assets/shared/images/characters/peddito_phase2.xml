@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peddito_phase2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="pedditop2 SingUP 0000" x="177" y="424" width="154" height="198" frameX="-74" frameY="-28" frameWidth="299" frameHeight="313"/>
+	<SubTexture name="pedditop2 SingUP 0001" x="226" y="224" width="158" height="200" frameX="-78" frameY="-30" frameWidth="299" frameHeight="313"/>
+	
+	<SubTexture name="pedditop2 SingLEFT 0000" x="0" y="424" width="177" height="219" frameX="-100" frameY="-35" frameWidth="299" frameHeight="313"/>
+	<SubTexture name="pedditop2 SingLEFT 0001" x="729" y="0" width="137" height="224" frameX="-103" frameY="-28" frameWidth="299" frameHeight="313"/>
+	
+	<SubTexture name="pedditop2 SingRIGHT 0000" x="0" y="224" width="226" height="200" frameX="-40" frameY="-38" frameWidth="299" frameHeight="313"/>
+	<SubTexture name="pedditop2 SingRIGHT 0001" x="514" y="0" width="215" height="203" frameX="-44" frameY="-43" frameWidth="299" frameHeight="313"/>
+	
+	<SubTexture name="pedditop2 SingDOWN 0000" x="0" y="0" width="259" height="224" frameX="-6" frameY="-43" frameWidth="299" frameHeight="313"/>
+	<SubTexture name="pedditop2 SingDOWN 0001" x="259" y="0" width="255" height="210" frameX="-10" frameY="-45" frameWidth="299" frameHeight="313"/>
+	
+	<SubTexture name="pedditop2 Idle 0000" x="514" y="203" width="194" height="201" frameX="-54" frameY="-56" frameWidth="299" frameHeight="313"/>
+</TextureAtlas>

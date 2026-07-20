@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peddito_rap.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Pedditospeaking0000" x="0" y="0" width="187" height="208" frameX="-15" frameY="-15" frameWidth="207" frameHeight="225"/>
+</TextureAtlas>
